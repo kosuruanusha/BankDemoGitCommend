@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 new
 =======
              Spring Boot
@@ -1076,4 +1076,4 @@ example5:
  List<Employee> findTop5BySalaryGreaterThan(double sal);
   The above method generates a query like this;
    SELECT * FROM EMP WHERE SAL > ? LIMIT 5;
->>>>>>> 033a25eaf686162b0bdb9163f067a7740ae3c98b
+
